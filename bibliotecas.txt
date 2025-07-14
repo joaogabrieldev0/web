@@ -15,3 +15,5 @@
     Passo a Passo: https://tailwindcss.com/docs/installation/using-vite
 
 -> Shadcn: https://ui.shadcn.com
+
+-> DayJS
