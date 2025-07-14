@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Meus Arquivos Pessoais
+bibliotecas.txt
+comandos.txt
