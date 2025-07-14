@@ -1,11 +1,11 @@
-# NLW Agents - Web
+# NLW Agents - Web 🚀
 
-## Descrição
+## 📝 Descrição
 Projeto web desenvolvido durante o **NLW Agents #20** com foco em organização, escalabilidade e boas práticas modernas de desenvolvimento front-end.
 
 ---
 
-## Tecnologias e Bibliotecas Utilizadas
+## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
 - **Vite**: Ferramenta de build e desenvolvimento rápido para projetos front-end.
 - **React**: Biblioteca para construção de interfaces de usuário.
@@ -21,7 +21,7 @@ Projeto web desenvolvido durante o **NLW Agents #20** com foco em organização,
 
 ---
 
-## Estrutura e Padrões de Projeto
+## 🗂️ Estrutura e Padrões de Projeto
 
 - **Componentização**: Uso de componentes reutilizáveis, especialmente em `src/components/ui/`.
 - **Hooks**: Utilização de hooks do React e React Query para lógica de estado e efeitos colaterais.
@@ -33,7 +33,7 @@ Projeto web desenvolvido durante o **NLW Agents #20** com foco em organização,
 
 ---
 
-## Como rodar o projeto
+## ▶️ Como rodar o projeto
 
 1. Instale as dependências:
    ```bash
@@ -46,6 +46,6 @@ Projeto web desenvolvido durante o **NLW Agents #20** com foco em organização,
 
 ---
 
-## Observações
+## ℹ️ Observações
 
 - O projeto segue padrões modernos de desenvolvimento, priorizando legibilidade, reuso e facilidade de manutenção. 
