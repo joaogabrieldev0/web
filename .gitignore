@@ -24,5 +24,4 @@ dist-ssr
 *.sw?
 
 # Meus Arquivos Pessoais
-bibliotecas.txt
-comandos.txt
+*.txt
