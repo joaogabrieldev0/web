@@ -1,0 +1,10 @@
+-> npm create vite@latest web ou "nome do projeto/pasta"
+    - Escolher a opção de framework
+    - Escolher a linguagem e variação
+    -> Seguir o passo a passo de comando que ele oferece
+
+-> npm install @biomejs/biome
+
+-> npx init ultracite
+
+-> npm install tailwindcss @tailwindcss/vite

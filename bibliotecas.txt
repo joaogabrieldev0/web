@@ -1,0 +1,17 @@
+-> Vite
+
+-> React
+
+-> React Router DOM
+    -> react-router-dom
+
+-> React Query
+    -> @tanstack/react-query 
+
+-> Biome
+    -> Ultracite
+
+-> Tailwindcss
+    Passo a Passo: https://tailwindcss.com/docs/installation/using-vite
+
+-> Shadcn: https://ui.shadcn.com
