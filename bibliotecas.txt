@@ -17,3 +17,7 @@
 -> Shadcn: https://ui.shadcn.com
 
 -> DayJS
+
+-> Zod
+
+-> @hookform/resolvers
