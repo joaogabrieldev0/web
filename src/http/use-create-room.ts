@@ -23,7 +23,7 @@ export function useCreateRoom() {
     },
 
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ["ger-rooms"] });
+      queryClient.invalidateQueries({ queryKey: ["get-rooms"] });
     },
   });
 }
