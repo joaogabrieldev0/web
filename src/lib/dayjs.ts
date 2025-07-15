@@ -8,8 +8,11 @@
 //   formatar.format(date);
 // }
 
-import Lib from "dayjs";
+import lib from "dayjs";
+import "dayjs/locale/pt-BR";
 import relativeTime from "dayjs/plugin/relativeTime";
-Lib.extend(relativeTime);
 
-export const dayjs = Lib;
+lib.locale("pt-BR");
+lib.extend(relativeTime);
+
+export const dayjs = lib;

@@ -10,6 +10,7 @@ import {
 import { ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
 import { Badge } from "@/components/ui/badge";
+import { dayjs } from "@/lib/dayjs";
 // A importação do Link pode ser removida se não for usada
 // import { Link } from "react-router-dom";
 
@@ -51,7 +52,11 @@ export function CreateRoom() {
               </CardDescription>
             </CardHeader>
             <CardContent className="flex flex-col gap-3">
-              {isLoading && <p>Carregando salas...</p>}
+              {isLoading && (
+                <p className="text-muted-foreground text-sm">
+                  Carregando salas...
+                </p>
+              )}
 
               {isError && (
                 <p className="text-red-500">
@@ -69,7 +74,8 @@ export function CreateRoom() {
                       <h3 className="font-medium ">{room.name}</h3>
 
                       <div className="flex items-center gap-2">
-                        <Badge>{room.createdAt}</Badge>
+                        <Badge>{dayjs(room.createdAt).toNow()}</Badge>
+
                         <Badge className="text-xs " variant={"outline"}>
                           {room.questionsCount} pergunta(s)
                         </Badge>
