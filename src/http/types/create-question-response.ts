@@ -1,3 +1,4 @@
 export type CreateQuestionResponse = {
-  roomID: string;
+  questionID: string;
+  answer: string | null;
 };
