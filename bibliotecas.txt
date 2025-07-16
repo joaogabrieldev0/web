@@ -21,3 +21,5 @@
 -> Zod
 
 -> @hookform/resolvers
+
+-> @types/dom-speech-recognition
