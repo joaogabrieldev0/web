@@ -17,7 +17,8 @@ Projeto desenvolvido durante o **NLW Agents #20** com foco em organização, esc
   - **[Class Variance Authority](https://cva.style/)**: Utilitário para criar variantes de componentes.
   - **[clsx](https://github.com/lukeed/clsx)**: Utilitário para manipulação de classes CSS.
 - **[Lucide React](https://lucide.dev/)**: Ícones SVG modernos.
-- **[Biome](https://biomejs.dev/)** - **[Ultracite](https://ultracite.dev/)**: Lint, formatação e análise de código.
+- **[Biome](https://biomejs.dev/): **: Lint, formatação e análise de código. 
+  - **[Ultracite](https://ultracite.dev/)**: Preset da Biblioteca Biome para detalhamento na exibição de erros no código.
 
 
 ---
