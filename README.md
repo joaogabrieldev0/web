@@ -6,16 +6,19 @@ Projeto desenvolvido durante o **NLW Agents #20** com foco em organização, esc
 
 ## 🛠️ Tecnologias e Bibliotecas
 
-- **Vite**: Ferramenta para automação e otimização do desenvolvimento.
-- **React**: Biblioteca para construção de interfaces.
-- **TypeScript**: Tipagem estática para maior segurança.
-- **React Router DOM**: Gerenciamento de rotas SPA.
-- **@tanstack/react-query**: Gerenciamento de estado assíncrono e cache.
-- **TailwindCSS**: Estilização utilitária e responsiva.
-- **Shadcn UI**: Componentes de UI acessíveis e customizáveis.
-- **Lucide React**: Ícones SVG modernos.
-- **Biome & Ultracite**: Lint, formatação e análise de código.
-- **Class Variance Authority, clsx, tailwind-merge**: Utilitários para manipulação de classes CSS.
+- **[Vite](https://vitejs.dev/)**: Ferramenta para automação e otimização do desenvolvimento.
+- **[React](https://react.dev/)**: Biblioteca para construção de interfaces.
+- **[TypeScript](https://www.typescriptlang.org/)**: Tipagem estática para maior segurança.
+- **[React Router DOM](https://reactrouter.com/)**: Gerenciamento de rotas SPA.
+- **[@tanstack/react-query](https://tanstack.com/query/latest/)**: Gerenciamento de estado assíncrono e cache.
+- **[TailwindCSS](https://tailwindcss.com/)**: Estilização utilitária e responsiva.
+  - **[tailwind-merge](https://github.com/dcastil/tailwind-merge)**: Utilitário para mesclar classes CSS do Tailwind.
+- **[Shadcn UI](https://ui.shadcn.com/)**: Componentes de UI acessíveis e customizáveis.
+  - **[Class Variance Authority](https://cva.style/)**: Utilitário para criar variantes de componentes.
+  - **[clsx](https://github.com/lukeed/clsx)**: Utilitário para manipulação de classes CSS.
+- **[Lucide React](https://lucide.dev/)**: Ícones SVG modernos.
+- **[Biome](https://biomejs.dev/)** - **[Ultracite](https://ultracite.dev/)**: Lint, formatação e análise de código.
+
 
 ---
 
